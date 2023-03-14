@@ -3,6 +3,6 @@ package isep.app;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Nouveau projet") ;
+        System.out.println("Trop cool le jeu") ;
     }
 }
